@@ -1,0 +1,60 @@
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\bin\Debug\net8.0\appsettings.json
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\bin\Debug\net8.0\CRUD_Humand.staticwebassets.runtime.json
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\bin\Debug\net8.0\CRUD_Humand.exe
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\bin\Debug\net8.0\CRUD_Humand.deps.json
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\bin\Debug\net8.0\CRUD_Humand.runtimeconfig.json
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\bin\Debug\net8.0\CRUD_Humand.dll
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\bin\Debug\net8.0\CRUD_Humand.pdb
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\obj\Debug\net8.0\CRUD_Humand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\obj\Debug\net8.0\CRUD_Humand.AssemblyInfoInputs.cache
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\obj\Debug\net8.0\CRUD_Humand.AssemblyInfo.cs
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\obj\Debug\net8.0\CRUD_Humand.csproj.CoreCompileInputs.cache
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\obj\Debug\net8.0\CRUD_Humand.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\obj\Debug\net8.0\CRUD_Humand.RazorAssemblyInfo.cache
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\obj\Debug\net8.0\CRUD_Humand.RazorAssemblyInfo.cs
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\obj\Debug\net8.0\staticwebassets\msbuild.CRUD_Humand.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\obj\Debug\net8.0\staticwebassets\msbuild.build.CRUD_Humand.props
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CRUD_Humand.props
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CRUD_Humand.props
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\obj\Debug\net8.0\scopedcss\bundle\CRUD_Humand.styles.css
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\obj\Debug\net8.0\scopedcss\projectbundle\CRUD_Humand.bundle.scp.css
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\obj\Debug\net8.0\CRUD_Humand.dll
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\obj\Debug\net8.0\refint\CRUD_Humand.dll
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\obj\Debug\net8.0\CRUD_Humand.pdb
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\obj\Debug\net8.0\CRUD_Humand.genruntimeconfig.cache
+C:\Users\briand.vazquez\source\repos\CRUD_Humand\obj\Debug\net8.0\ref\CRUD_Humand.dll
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\bin\Debug\net8.0\appsettings.json
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\bin\Debug\net8.0\CRUD_Humand.staticwebassets.runtime.json
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\bin\Debug\net8.0\CRUD_Humand.exe
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\bin\Debug\net8.0\CRUD_Humand.deps.json
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\bin\Debug\net8.0\CRUD_Humand.runtimeconfig.json
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\bin\Debug\net8.0\CRUD_Humand.dll
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\bin\Debug\net8.0\CRUD_Humand.pdb
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\CRUD_Humand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\CRUD_Humand.AssemblyInfoInputs.cache
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\CRUD_Humand.AssemblyInfo.cs
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\CRUD_Humand.csproj.CoreCompileInputs.cache
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\CRUD_Humand.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\CRUD_Humand.RazorAssemblyInfo.cache
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\CRUD_Humand.RazorAssemblyInfo.cs
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\staticwebassets\msbuild.CRUD_Humand.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\staticwebassets\msbuild.build.CRUD_Humand.props
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CRUD_Humand.props
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CRUD_Humand.props
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\scopedcss\bundle\CRUD_Humand.styles.css
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\scopedcss\projectbundle\CRUD_Humand.bundle.scp.css
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\CRUD_Humand.dll
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\refint\CRUD_Humand.dll
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\CRUD_Humand.pdb
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\CRUD_Humand.genruntimeconfig.cache
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\ref\CRUD_Humand.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EP0jBrDjjxE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\briand.vazquez\\Documents\\Proyectos net\\CRUD_Humand\\CRUD_Humand.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\briand.vazquez\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
