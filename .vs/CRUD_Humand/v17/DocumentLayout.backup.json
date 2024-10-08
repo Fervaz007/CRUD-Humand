@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\briand.vazquez\\Documents\\Proyectos net\\CRUD_Humand\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E53C2C13-3C8B-4541-A4F6-5D69F9896B59}|CRUD_Humand.csproj|c:\\users\\briand.vazquez\\documents\\proyectos net\\crud_humand\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53C2C13-3C8B-4541-A4F6-5D69F9896B59}|CRUD_Humand.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53C2C13-3C8B-4541-A4F6-5D69F9896B59}|CRUD_Humand.csproj|c:\\users\\briand.vazquez\\documents\\proyectos net\\crud_humand\\models\\relationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53C2C13-3C8B-4541-A4F6-5D69F9896B59}|CRUD_Humand.csproj|solutionrelative:models\\relationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E53C2C13-3C8B-4541-A4F6-5D69F9896B59}|CRUD_Humand.csproj|c:\\users\\briand.vazquez\\documents\\proyectos net\\crud_humand\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E53C2C13-3C8B-4541-A4F6-5D69F9896B59}|CRUD_Humand.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -23,25 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Relationship.cs",
+              "DocumentMoniker": "C:\\Users\\briand.vazquez\\Documents\\Proyectos net\\CRUD_Humand\\Models\\Relationship.cs",
+              "RelativeDocumentMoniker": "Models\\Relationship.cs",
+              "ToolTip": "C:\\Users\\briand.vazquez\\Documents\\Proyectos net\\CRUD_Humand\\Models\\Relationship.cs",
+              "RelativeToolTip": "Models\\Relationship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T23:24:39.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\briand.vazquez\\Documents\\Proyectos net\\CRUD_Humand\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\briand.vazquez\\Documents\\Proyectos net\\CRUD_Humand\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T23:16:23.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\briand.vazquez\\Documents\\Proyectos net\\CRUD_Humand\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\briand.vazquez\\Documents\\Proyectos net\\CRUD_Humand\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-09-27T22:39:09.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\briand.vazquez\\Documents\\Proyectos net\\CRUD_Humand\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\briand.vazquez\\Documents\\Proyectos net\\CRUD_Humand\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADoAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-27T15:52:17.23Z",
               "EditorCaption": ""

@@ -12,40 +12,42 @@
           crossorigin="anonymous">
 </head>
 <body>
-    <div class="container col-5 mt-5 bg-black rounded-4">
-        <h2 class="text-center " style="color:white">Datos del usuario</h2>
+    <div class="container col-6 mt-5 rounded-4" style="background-color:#18d9d5;">
+        <h2 class="text-center " style="color:black">Datos del usuario</h2>
     </div>
 
-    <form class="bg-primary bg-opacity-50">
+    <div class="d-flex justify-content-center">
+    <form class="col-6" style="background-color:#18d9d5;">
         <!--Campo Jefe-->
         <div class="row justify-content-center">
-            <div class="col-4 mt-4 mb-3 rounded-4" id="labels">
-                <label for="nombre" class="form-label">Jefe</label>
-                <input type="number" class="form-control" id="nombre" placeholder="No. nomina del jefe" required />
+            <div class="col-5 mt-4 mb-3 rounded-4" id="labels">
+                <label for="nombre" class="form-label">Jefe</label>               
+                        <input type="number" class="form-control" id="nombre" placeholder="No. nomina del jefe" required />
             </div>
         </div>
         <!--Nomina del usuario-->
         <div class="row justify-content-center">
-            <div class="col-4 mt-4 mb-3 rounded-4" id="labels">
+            <div class="col-5 mt-4 mb-3 rounded-4" id="labels">
                 <label for="nombre" class="form-label">Usuario</label>
-                <input type="text" class="form-control" id="nombre" placeholder="No. nomina del usuario" required />
+                <input type="number" class="form-control mb-2" id="nombre" placeholder="No. nomina del usuario" required />
             </div>
         </div>
-        <!--Campo Email-->
+        <!--Campo Nombres-->
         <div class="row justify-content-center">
-            <div class="col-4 mt-4 mb-3 rounded-4" id="labels">
+            <div class="col-5 mt-4 mb-3 rounded-4" id="labels">
                 <label for="nombre" class="form-label">Nombre(s)</label>
-                <input type="text" class="form-control" id="nombre" placeholder="Escribe el nombre" required />
+                <input type="text" class="form-control mb-2" id="nombre" placeholder="Escribe el nombre" required />
             </div>
         </div>
-        <!--Campo Email-->
+        <!--Campo Apellidos-->
         <div class="row justify-content-center">
-            <div class="col-4 mt-4 mb-3 rounded-4" id="labels">
+            <div class="col-5 mt-4 mb-3 rounded-4" id="labels">
                 <label for="nombre" class="form-label">Apellidos</label>
-                <input type="text" class="form-control" id="nombre" placeholder="Escribe los apellidos" required />
+                <input type="text" class="form-control mb-2" id="nombre" placeholder="Escribe los apellidos" required />
             </div>
         </div>
     </form>
+    </div>
 
     <div class="d-flex justify-content-center align-items-center">
         <div class="d-flex justify-content-center mt-4 mb-3 rounded-4">

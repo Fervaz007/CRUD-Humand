@@ -58,3 +58,4 @@ C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\ref
 C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\CRUD_Humand.pdb
 C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\CRUD_Humand.genruntimeconfig.cache
 C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\ref\CRUD_Humand.dll
+C:\Users\briand.vazquez\Documents\Proyectos net\CRUD_Humand\obj\Debug\net8.0\CRUD_Humand.sourcelink.json
